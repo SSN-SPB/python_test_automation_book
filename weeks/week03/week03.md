@@ -28,3 +28,5 @@ In this section, you will learn how to handle files in Python for reading and wr
 
 ## Task Exercises:
 ## Beecode tasks
+## Non-Beecode tasks
+## TI questions
