@@ -1,7 +1,7 @@
 import re
 
-# Define if a string contains the required characters.
-# E.g. if '7865serS3' includes '583' - True; '973' - False
+# Count a number of Upper case letters in the string.
+# E.g. '7865serS3' - 'Number of Capital letters: 1'
 
 regex_one = "583"
 regex_two = "973"

@@ -8,6 +8,7 @@ string_one = "7865serS3"
 string_two = "7865sers3"
 string_three = "78S65UserU3"
 
+
 def is_capital_and_not_capital_in_string(regex_string, test_string):
     pattern = re.compile(regex_string)
     result = re.findall(pattern, test_string)
@@ -25,4 +26,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
